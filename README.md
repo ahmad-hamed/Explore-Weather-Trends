@@ -12,4 +12,4 @@ I've exported the temperature data for the world as well as for the closest big 
 The chart line compares Cairo & Alexandria temperatures with the global temperatures. then plotting the moving average rather than the yearly averages in order to smooth out the lines, making trends more observable.
 
 **Making observations**
-All included in the pdf file, the observations include the similarities and differences between the world averages, Cairo, and Alexandria averages, as well as overall trends. H
+All included in the pdf file, the observations include the similarities and differences between the world averages, Cairo, and Alexandria averages, as well as overall trends. 
